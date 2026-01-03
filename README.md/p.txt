@@ -1,0 +1,51 @@
+Paris Trip OpenAI – Travel Assistant 🇫🇷🤖
+📌 Project Overview
+Paris Trip OpenAI is a Python-based travel assistant that uses OpenAI Large Language Models (LLMs) to answer questions about famous landmarks, locations, and must-see attractions in Paris.
+The project simulates an intelligent travel guide capable of providing concise and useful information to tourists.
+This project demonstrates:
+
+Practical use of LLMs
+Basic NLP-style interaction (question understanding & response generation)
+Clean project organization suitable for academic evaluation and scholarships
+
+✨ Features:
+Uses OpenAI API (GPT-4o-mini)
+Answers predefined travel questions about Paris
+Maintains a conversation context
+Simple and clear Python implementation
+Easy to extend with NLP, RAG, or user input
+🧠 Technologies Used:
+Python 3
+OpenAI Python SDK
+Large Language Models (LLM)
+Basic NLP interaction via prompts
+
+▶️ Example Output
+
+Q: How far away is the Louvre from the Eiffel Tower?
+A: The Louvre is approximately 3 miles (4.8 km) from the Eiffel Tower by car.
+
+Q: Where is the Arc de Triomphe?
+A: The Arc de Triomphe is located at Place Charles de Gaulle in Paris.
+
+Q: What are the must-see artworks at the Louvre Museum?
+A: The Mona Lisa, Venus de Milo, and Liberty Leading the People.
+▶️Code Explanation (Simple)
+llm_travel.py
+Loads the OpenAI API key
+Defines the LLM model
+Initializes the conversation and questions
+Imports LLM configuration
+Sends questions to the model
+Displays the answers
+🚀 Future Improvements:
+Add user input instead of predefined questions
+Integrate RAG (Retrieval-Augmented Generation)
+Add real NLP processing (entity recognition, locations, distances)
+Connect to external travel APIs (maps, weather, museums)
+🎓 Academic Value
+This project demonstrates:
+Understanding of LLMs
+Practical AI application
+Clean GitHub organization
+Readiness for research projects and scholarships
