@@ -1,4 +1,3 @@
-from llm_travel import conversation, questions, client, model
 
 # -----------------------------
 # Loop through questions and get LLM answers
