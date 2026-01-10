@@ -47,5 +47,9 @@ Connect to external travel APIs (maps, weather, museums)
 This project demonstrates:
 Understanding of LLMs
 Practical AI application
-Clean GitHub organization
-Readiness for research projects and scholarships
+▶️Acknowledgment:
+This project is based on a learning exercise.
+The implementation, code structure, and documentation
+were developed independently.
+
+
